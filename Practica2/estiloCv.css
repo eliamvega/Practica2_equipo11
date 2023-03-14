@@ -1,0 +1,46 @@
+body{
+	font-family: Arial, Helvetica;
+	background: #e6e6fa;
+}
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+h2 {
+  background-color: h1(198,  50%, 65%);
+  font-size: 1rem;
+}
+
+h3 {
+  background-color: hsl(198,  50%, 65%);
+  font-size: 1.5rem;
+}
+h4{
+  background-color: hsl(198, 50%, 65%);
+  font-size: 1rem,
+}
+strong {
+  color: #66cdaa;
+
+p {
+  text-align: oblique;
+}
+#uno{
+  background-color: hsl(39, 83%, 46%);
+  color: black;
+  font-family: fantasy;
+}
+pre {
+  background-color: yellow;
+  font-size: 1rem;
+  font-weight: bold;
+}
+address{
+  font-family: serif;
+  font-style: normal;
+  text-align: right;
+}
+
